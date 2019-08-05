@@ -5,14 +5,26 @@
  */
 package javaapplication13;
 
+import static java.lang.System.console;
+
 /**
  *
  * @author acezh
  */
-public class Multiplication {
+public class JavaApplication13 {
+    
+    
+
+    /**
+     * @param args the command line arguments
+     */
     public static void main(String[] args) {
-        System.out.println("Ace Zheridan S. Gutierrez");
+        // TODO code application logic here
+     
+        int a = 1;
         
-        System.out.println("Ace");
+        
+    
     }
+    
 }
